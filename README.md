@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello World! 👋
+
+#### I'm an iOS developer.
+
+- 😄 I'm familiar with Swift and UIKit
+
+- 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=k2417000)](https://solved.ac/k2417000)
+<img src="http://mazandi.herokuapp.com/api?handle=k2417000&theme=warm"/>
+
 
 <!--
 **seongminmon/seongminmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
