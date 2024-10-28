@@ -1,6 +1,5 @@
 ## iOS developer 🍎
-안녕하세요. iOS 개발자 김성민입니다.  
-누구에게나 간결하고 이해하기 쉬운 코드를 지향합니다.
+안녕하세요. iOS 개발자 김성민입니다.
 
 <img src="https://img.shields.io/badge/Swift-EC7845?style=flat-square&logo=swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=UIkit&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
